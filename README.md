@@ -9,4 +9,4 @@
 
 #python3 dday.py
 
-User/Password = Rathu
+#User/Password = Rathu
