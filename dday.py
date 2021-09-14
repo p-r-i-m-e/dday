@@ -129,7 +129,7 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("wget -O install-nethunter-termux https://offs.ec/2MceZWr lol
+		os.system("wget -O install-nethunter-termux https://offs.ec/2MceZWrlol
 
 
 			  
