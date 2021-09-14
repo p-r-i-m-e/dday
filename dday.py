@@ -111,7 +111,7 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/sqlmapproject/sqlmap & cd sqlmap & python2 sqlmap.py")
+		os.system("git clone https://github.com/sqlmapproj)
 	elif choice==3:
 		import os
 		os.system("xdg-open https://github.com/darknethaxor/DH-HackBar/tree/v1.1")
@@ -119,17 +119,22 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/Manisso/fsociety & cd fsociety & chmod +x fsociety.py & python2 fsociet.py")
+		os.system("git clone https://github.com/Manisso/fsociety")
 	elif choice==5:
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/rapid7/metasploit-framework & cd metasploit & chmod +x meatsploit.sh & bash metasploit.sh")
+		os.system("git clone https://github.com/rapid7/metasploit-framework")
 	elif choice==6:
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("wget -O install-nethunter-termux https://offs.ec/2MceZWr & chmod +x install-nethunter-termux & ./install-nethunter-termux")
+		os.system("wget -O install-nethunter-termux https://offs.ec/2MceZWr lol
+
+
+			  
+			  
+			 ")
 	elif choice==7:
 		import os 
 		os.system("cd")
@@ -139,12 +144,12 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/Rajkumrdusad/Tool-X.git & cd Tool-X & chmod +x install.aex & /install.aex")
+		os.system("git clone https://github.com/Rajkumrdusad/Tool-X.git")
 	elif choice==9:
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip & unzip ngrok-stable-linux-arm.zip & chmod +x ngrok & ./ngrok help")
+		os.system("wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip")
 	elif choice==10:
 		import os
 		os.system("cd")
@@ -195,12 +200,12 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git cloen http://github.com/BOT-033/Sensei & cd Sensei & chmod +x* & python2 main.py")
+		os.system("git cloen http://github.com/BOT-033/Sensei")
 	elif choice==18:
 		import os 
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/p-r-i-m-e/Script-Doller & php bot.php")
+		os.system("git clone https://github.com/p-r-i-m-e/Script-Doller")
 	elif choice==19:
 		import os 
 		os.system("xdg-open https://www.facebook.com/P.R.I.M.E.127.0.0.1 ")
