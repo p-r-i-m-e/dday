@@ -111,7 +111,7 @@ if user=="Rathu" and password=="Rathu":
 		import os
 		os.system("cd")
 		os.system("clear")
-		os.system("git clone https://github.com/sqlmapproj)
+		os.system("git clone https://github.com/sqlmapproject/sqlmap")
 	elif choice==3:
 		import os
 		os.system("xdg-open https://github.com/darknethaxor/DH-HackBar/tree/v1.1")
